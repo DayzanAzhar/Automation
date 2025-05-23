@@ -26,6 +26,12 @@ This project simulates an automated conveyor belt system capable of sorting item
   ![Ladder diagram 1](https://github.com/user-attachments/assets/7c79a3f8-ee9f-4809-970d-fac3b7198786)
   ![Ladder diagram 2](https://github.com/user-attachments/assets/5b0e4784-3674-4992-ae5a-b57b8c2deb4a)
   ![Ladder diagram 3](https://github.com/user-attachments/assets/b256c2f5-afdf-451b-8cd5-fd6e3ca69d33)
+- HMI:
+
+  ![HMI 1](https://github.com/user-attachments/assets/afb71489-509d-4a7b-b3d6-f9e13b803f84)
+  ![HMI 2](https://github.com/user-attachments/assets/cbcdf155-5b84-4fb2-8af8-4ec226474849)
+
+
 
 
 

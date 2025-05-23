@@ -22,7 +22,12 @@ This project simulates an automated conveyor belt system capable of sorting item
 
 ## 📷 Preview
 - Ladder diagram:
+  
   ![Ladder diagram 1](https://github.com/user-attachments/assets/7c79a3f8-ee9f-4809-970d-fac3b7198786)
+  ![Ladder diagram 2](https://github.com/user-attachments/assets/5b0e4784-3674-4992-ae5a-b57b8c2deb4a)
+  ![Ladder diagram 3](https://github.com/user-attachments/assets/b256c2f5-afdf-451b-8cd5-fd6e3ca69d33)
+
+
 
 *Insert screenshots of CX-Programmer ladder and HMI layout here (optional)*
 

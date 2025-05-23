@@ -6,7 +6,7 @@ This repository is part of my portfolio as an Electrical Engineering graduate wi
 
 ## 📁 Project List
 
-### 🔹 [Automated Conveyor Control System]([./Automated-Conveyor-System](https://github.com/DayzanAzhar/Automation/tree/main/Automatic%20Conveyor%20System))
+### 🔹 [Automated Conveyor Control System]([./Automated-Conveyor-System](https://github.com/DayzanAzhar/Automation/tree/main/Automatic%20Conveyor%20System)
 A sorting conveyor system that detects and classifies items based on color and weight. Includes a PLC ladder program and a simulated HMI interface for monitoring and manual control.
 
 ### 🔹 [Industrial Water Treatment Control System](./Water-Treatment-Control-System)

@@ -27,7 +27,7 @@ This PLC-HMI project controls and monitors key processes in an industrial water 
 ## 📷 Preview
 - Ladder diagram:
 
-  ![Ladder diagram 1](https://github.com/user-attachments/assets/0c1478ce-e231-41b5-9d37-a9d4c7bfe2c7)
+  ![Ladder diagram 1](https://github.com/user-attachments/assets/45cf1662-3a51-4f9c-8dee-a71169664b72)
   ![Ladder diagram 2](https://github.com/user-attachments/assets/e2d2febf-178f-4069-bf06-b60f077108a1)
   ![Ladder diagram 3](https://github.com/user-attachments/assets/ab0197c3-9da7-480c-9f96-af3bc6ea87a3)
   ![Ladder diagram 4](https://github.com/user-attachments/assets/e5dcd4bb-60a2-4132-a638-94c35935f5f6)

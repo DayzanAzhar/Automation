@@ -21,5 +21,8 @@ This project simulates an automated conveyor belt system capable of sorting item
 - Design operator-friendly HMI interface
 
 ## 📷 Preview
+- Ladder diagram:
+  ![Ladder diagram 1](https://github.com/user-attachments/assets/7c79a3f8-ee9f-4809-970d-fac3b7198786)
+
 *Insert screenshots of CX-Programmer ladder and HMI layout here (optional)*
 

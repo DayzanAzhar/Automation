@@ -9,7 +9,7 @@ This repository is part of my portfolio as an Electrical Engineering graduate wi
 ### 🔹 [Automated Conveyor Control System](https://github.com/DayzanAzhar/Automation/tree/main/Automatic%20Conveyor%20System)
 A sorting conveyor system that detects and classifies items based on color and weight. Includes a PLC ladder program and a simulated HMI interface for monitoring and manual control.
 
-### 🔹 [Industrial Water Treatment Control System](./Water-Treatment-Control-System)
+### 🔹 [Industrial Water Treatment Control System](https://github.com/DayzanAzhar/Automation/tree/main/Water%20Treatment%20Control%20System)
 A PLC-controlled water treatment system that automates pH monitoring, tank level control, and chemical dosing. Integrated with HMI for real-time operator feedback and control.
 
 ## 🧰 Tools & Technologies
